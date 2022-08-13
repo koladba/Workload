@@ -1,0 +1,1 @@
+ Hello Class, This is git training class for today!
